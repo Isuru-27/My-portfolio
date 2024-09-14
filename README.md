@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# Isuru-portfolio-starter
